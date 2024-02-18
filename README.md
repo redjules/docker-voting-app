@@ -2,13 +2,6 @@
 
 A simple distributed application running across multiple Docker containers.
 
-
-# Architecture
-
-<img width="710" alt="Screenshot 2024-02-18 at 11 06 18" src="https://github.com/redjules/docker-voting-app/assets/106017493/76aa9a46-b45b-433a-a90a-9543d4a0c1e7">
-
-
-
 ## Getting started
 
 Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/).
