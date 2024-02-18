@@ -1,5 +1,10 @@
 # Example Voting App
 
+# Architecture
+
+<img width="710" alt="Screenshot 2024-02-18 at 11 06 18" src="https://github.com/redjules/docker-voting-app/assets/106017493/76aa9a46-b45b-433a-a90a-9543d4a0c1e7">
+
+
 A simple distributed application running across multiple Docker containers.
 
 ## Getting started
